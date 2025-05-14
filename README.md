@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Brice!
 
-- 📚 Currently working on my [Bachelor's Degree in Computer Science](https://engineering.oregonstate.edu/academics/programs/computer-science/undergraduate#programToggle) through Oregon State University<br/>
+- 📚 Working on my [Bachelor's Degree in Computer Science](https://engineering.oregonstate.edu/academics/programs/computer-science/undergraduate#programToggle) through Oregon State University<br/>
 - 🌱 I’m currently learning about Data Structures, Web Development, and UX Design<br/>
 - 📫 You can reach me at brice.t.jenkins@gmail.com or through [LinkedIn](www.linkedin.com/in/bricetj)<br/>
 - ⚡ Fun fact: I paint and draw as well, check me out on [Instagram](https://www.instagram.com/brice_jenkins_art/)<br/>
