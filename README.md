@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Brice!
 
-- 📚 Working on my [Bachelor's Degree in Computer Science](https://engineering.oregonstate.edu/academics/programs/computer-science/undergraduate#programToggle) through Oregon State University<br/>
-- 🌱 I’m currently taking courses in Operating Systems and C language, Software Engineering Methods, and Verification. <br/>
+- 📚 Working on my [Bachelor's Degree in Computer Science](https://engineering.oregonstate.edu/academics/programs/computer-science/undergraduate#programToggle) through Oregon State University.<br/>
+- 🌱 I’m finishing up my degree this semester, so I am currently completing my Capstone Project as well as courses in Networks and Mobile App Development. <br/>
 - 📫 You can reach me at brice.t.jenkins@gmail.com or through [LinkedIn](www.linkedin.com/in/bricetj)<br/>
 - ⚡ Fun fact: I paint and draw as well, check me out on [Instagram](https://www.instagram.com/brice_jenkins_art/)<br/>
 
